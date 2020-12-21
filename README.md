@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 ### Project name.
 **Delani studio**
-=======
-#Project name.
-   
-   
-   `Delani studio
->>>>>>> 32753544c83749de95fd7baece47731c6430f449
 
 
 ### Project description.
@@ -18,15 +11,9 @@ Planning and development is iterative. Because we are constantly coding and test
 This iterative process allows for changes as business requirements evolve
 
 
-<<<<<<< HEAD
-### Author(s) information.
- laura chebet
- rosechebet1997@gmail.com
-=======
 #Author(s) information.
  `laura chebet
  `rosechebet1997@gmail.com
->>>>>>> 32753544c83749de95fd7baece47731c6430f449
 
 ### Setup instructions.
 
@@ -46,9 +33,32 @@ This iterative process allows for changes as business requirements evolve
 
 ###Live link.
 this is the link to delani studio;
+   `http://127.0.0.1:5500/weekIP3.html
 
 
 ### Licences and Copyright information.
+MIT License
+
+Copyright (c) 2020 laura chebet
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 
 
