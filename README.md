@@ -1,8 +1,8 @@
-#Project name.
-Delani studio
+### Project name.
+**Delani studio**
 
 
-#Project description.
+### Project description.
 Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing.
 Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what is needed.
 All engineers are fluent in the latest enterprise, mobile and web development technologies.
@@ -11,31 +11,31 @@ Planning and development is iterative. Because we are constantly coding and test
 This iterative process allows for changes as business requirements evolve
 
 
-#Author(s) information.
+### Author(s) information.
  laura chebet
  rosechebet1997@gmail.com
 
-#Setup instructions.
+### Setup instructions.
 
 
-#BDD
+### BDD
 
 
-#Tecnologies used.
+### Tecnologies used.
 
 
-#Contact information.
+### Contact information.
 0740953906
 
-#Screenshots.
+### Screenshots.
 
 
 
-#Live link.
+###Live link.
 this is the link to delani studio;
 
 
-#Licences and Copyright information.
+### Licences and Copyright information.
 
 
 
