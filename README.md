@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 ### Project name.
 **Delani studio**
+=======
+#Project name.
+   
+   
+   `Delani studio
+>>>>>>> 32753544c83749de95fd7baece47731c6430f449
 
 
 ### Project description.
@@ -11,9 +18,15 @@ Planning and development is iterative. Because we are constantly coding and test
 This iterative process allows for changes as business requirements evolve
 
 
+<<<<<<< HEAD
 ### Author(s) information.
  laura chebet
  rosechebet1997@gmail.com
+=======
+#Author(s) information.
+ `laura chebet
+ `rosechebet1997@gmail.com
+>>>>>>> 32753544c83749de95fd7baece47731c6430f449
 
 ### Setup instructions.
 
