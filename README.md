@@ -1,5 +1,7 @@
 #Project name.
-Delani studio
+   
+   
+   `Delani studio
 
 
 #Project description.
@@ -12,8 +14,8 @@ This iterative process allows for changes as business requirements evolve
 
 
 #Author(s) information.
- laura chebet
- rosechebet1997@gmail.com
+ `laura chebet
+ `rosechebet1997@gmail.com
 
 #Setup instructions.
 
