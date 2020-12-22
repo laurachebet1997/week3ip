@@ -5,26 +5,31 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="css/styles.css" rel="stylesheet" type="text/css"
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link href="js/script.js" rel="stylesheet" type="text/css">
+    <link href="js/jQuery.js" rel="stylesheet" type="text/js">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
   <body>
-      <div class=card>
-      <h1>D</h1>
+      <div class="jumbotron">
+        <h1 class="logo">
+          <img src="images/logo.png">
+        </h1>
       <h2>WELCOME <br>TO DELANI STUDIO</h2>
-      <h3>AMAZING PEOPLE ARE MAKING AMAZING DESIGNS IN A FUN ENVIRONMENT</h3>
+      <h2>AMAZING PEOPLE ARE MAKING AMAZING DESIGNS IN A FUN ENVIRONMENT</h2>
       <p></p>
       </div>
-      <div class="jumbotron">
-          <h1 class="display-4">ABOUT US</h1>
+      <div class="box">
+      <div class="card">
+          <h1 class="card-tittle">ABOUT US</h1>
           <p>When you work wiyth us you are part of a team of committed collaborators.All aspects of our software development process are intergrated,interactive<br>and agile.</p>
           <p>Our apptroach unifies desighn,development and product management to create exceptional products.</p>
           <p>We start each project by understanding your business goals,the user's needs and the product requirements.</p>
           <p>Then we help them translate them into effective and elegant solutions.</p>
       </div>
-      <div class="card">
+      </div>
+      <div class="nice">
+      <div class="card-1">
           <div class="card-tittle">
               <h1>SERVICES</h1>
           </div>
@@ -32,48 +37,90 @@
           <p>The outcome of this scoping session is proposal or high level statement of work.<br> based on your requirements,we can provide a complete offering or just the pieces you need.</p>
           
       </div>
-      <div class="card">
+      </div>
+      <div class="card-2">
           <div class="card-tittle">
               <h1>WHAT WE DO</h1>
           </div>
+          <div class="container">
           <div class="row">
-              <div class="col-md-4">DESIGN</div>
-              <div class="col-md-4">DEVELOPMENT</div>
-              <div class="col-md-4">PRODUCT MANAGEMENT</div>
+              <div class="col-md-4">
+                <h1 class="logo">
+                  <img src="images/services_icons/design_icon.png">
+                </h1>
+                <h2>>DESIGN</h2>
+              </div>
+              <div class="col-md-4">
+                <h1 class="logo">
+                  <img src="images/services_icons/dev_icon.png">
+                </h1>
+                <h2>DEVELOPMENT</h2>
+              </div>
+              <div class="col-md-4">
+                <h1 class="logo">
+                  <img src="images/services_icons/product_icon.png">
+                </h1>
+                <h2>PRODUCT MANAGEMENT</h2>
+              </div>
+          </div>
           </div>
 
       </div>
-      <div class="card">
+      </div>
+      <div class="card-3">
         <div class="card-tittle">
           <h1>PORTFOLIO</h1>
         </div>
-
-
-
-
-
+        <div class="grid-container">
+          
+            <div>
+              <img src="images/work4.jpg">
+            </div>
+            <div>
+              <img src="images/work3.jpg">
+            </div>
+            <div>
+              <img src="images/work2.jpg">
+            </div>
+            <div>
+              <img src="images/work1.jpg">
+            </div>
+            <div>
+              <img src="images/work5.jpg">
+            </div>
+            <div>
+              <img src="images/work6.jpg">
+            </div>
+            <div>
+              <img src="images/work7.jpg">
+            </div>
+            <div>
+              <img src="images/work8.jpg">
+            </div>
+            
+        </div>
 
       </div>
-      <div class="card">
+      <div class="card-4">
         <div class="card-tittle">
           <h1>CONTACT US</h1>
         </div>
         <div class="card-body">
-          <div class="row">
-            <div class="col-md-6">name</div>
-            <div class="col-md-6">email</div>
-
-        </div>
-        <div class="col-md-6">your message</div>
+          <form>
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="fname" value="">
+            <br>
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="lname" value="">
+            <br>
+            <label for="msg">Your message</label>
+            <input type="text" id="msg" name="msg" value="">
+  
+          </form>
 
       </div>
       </div>
-
-      
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+      </div>
+    </div>
   </body>
 </html>
