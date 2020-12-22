@@ -1,0 +1,38 @@
+h1 {
+    color: black;
+    font-weight: bold;
+    background-repeat: no-repeat;
+}
+.jumbotron {
+    text-align: center;
+    background-image: url(../images/first.jpg)
+}
+.card {
+    text-align: center;
+    width: 1500px;
+}
+.card-1 {
+    background-image: url(../images/s_image.jpg);
+    text-align: center;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+}
+.card-3 {
+    text-align: center;
+}
+.card-4 {
+    text-align: center;
+    background-image: url(../images/c_image.jpg);
+}
+.card-2 {
+    text-align: center;
+    
+}  
+.card-4 {
+    background-image: url(../images/c_image.jpg);
+    padding: unset;
+} 
+   
