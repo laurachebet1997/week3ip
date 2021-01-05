@@ -23,6 +23,7 @@ h1 {
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto;
+    
 
 }
 .card-3 {
@@ -54,3 +55,22 @@ body {
     width: 100%;
     margin-top: 0;
   }   
+}
+.button:hover {
+    color: white;
+    background-color: rgb(73, 25, 112);
+
+}
+
+.submit {
+    alert("contact sent successfull")
+}
+#myDIV {
+    display: none;
+}
+#myDIv {
+    display: none;
+}
+#myDiv {
+    display: none;
+}
