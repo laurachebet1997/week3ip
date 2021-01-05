@@ -11,21 +11,29 @@ Planning and development is iterative. Because we are constantly coding and test
 This iterative process allows for changes as business requirements evolve
 
 
-#Author(s) information.
+###Author(s) information.
  `laura chebet
  `rosechebet1997@gmail.com
 
 ### Setup instructions.
+   this is a project that would interact with the users' filling in information and be able to communicate with them incase of needed crisis.thus,user interface tools have been deployed to make them simple to use and few jquery on the backend to facilitate alerts.
+
 
 
 ### BDD
+  //headings should be bold 
+  //image pasting on the background
+  //enter contact information which should be responsive
 
 
 ### Tecnologies used.
+jquery
+html
+css
 
 
 ### Contact information.
-0740953906
+  `0740953906
 
 ### Screenshots.
 
