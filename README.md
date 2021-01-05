@@ -12,7 +12,11 @@ This iterative process allows for changes as business requirements evolve
 
 
 ###Author(s) information.
+
+
  `laura chebet
+ 
+ 
  `rosechebet1997@gmail.com
 
 ### Setup instructions.
@@ -22,7 +26,9 @@ This iterative process allows for changes as business requirements evolve
 
 ### BDD
   //headings should be bold 
+
   //image pasting on the background
+
   //enter contact information which should be responsive
 
 
