@@ -1,13 +1,3 @@
-$(document).ready(function() {
-    $("#design-text").click(function() {
-        $("#myDIV").toggle();
-    });
-}); 
-$(document).ready(function() {
-    $("#details3").click(function() {
-        $("#product-text").toggle();
-    });
-}); 
 function myFunction() {
     var x = document.getElementById("myDIV");
     if (x.style.display === "none") {
@@ -32,6 +22,10 @@ function myText() {
         x.style.display = "none";
     }
 } 
-function submit() {
-    alert("contact successfully sent")
-}   
+function mySubmit() {
+    
+    alert("contact successfully sent .will reach out soon")
+    
+}
+
+
