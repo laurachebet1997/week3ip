@@ -1,8 +1,8 @@
-### Project name.
+# Project name.
 **Delani studio**
 
 
-### Project description.
+# Project description.
 Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing.
 Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what is needed.
 All engineers are fluent in the latest enterprise, mobile and web development technologies.
@@ -11,46 +11,58 @@ Planning and development is iterative. Because we are constantly coding and test
 This iterative process allows for changes as business requirements evolve
 
 
-###Author(s) information.
+# Author(s) information.
 
 
- `laura chebet
+   `laura chebet
  
- 
- `rosechebet1997@gmail.com
 
-### Setup instructions.
-   this is a project that would interact with the users' filling in information and be able to communicate with them incase of needed crisis.thus,user interface tools have been deployed to make them simple to use and few jquery on the backend to facilitate alerts.
+   `rosechebet1997@gmail.com
 
+# Setup instructions.
+   1. clone the repo:
+        `git clone 
 
+   1.write an html file
+   1.create css and js files
+   1.link the css adn js files to the html
+   1.use jquery functions for hover effects
+   1.add background images
 
-### BDD
-  //headings should be bold 
+# BDD
+  *have a nice website that users can interact  
 
-  //image pasting on the background
+  *add sample portfolio
 
-  //enter contact information which should be responsive
-
-
-### Tecnologies used.
-jquery
-html
-css
-
-
-### Contact information.
-  `0740953906
-
-### Screenshots.
+  *enter contact information which should be responsive
+  *
 
 
+# Tecnologies used.
+ *jquery
+ *html
+ *css
+ *bootstrap
+ *any other
 
-### Live link.
-this is the link to delani studio;
-   `http://127.0.0.1:5500/weekIP3.html
+
+# Contact information.
+  *phone number:[+254740953906]rosechebet1997@gmail.com
+  *email:[]
+
+# Screenshots.
+  ![images/DelaniStudio.jpg]
 
 
-### Licences and Copyright information.
+
+# Live link.
+this is the link to delani studio:
+
+   `https://laurachebet1997.github.io/week3ip/
+   
+
+
+# Licences and Copyright information.
 MIT License
 
 Copyright (c) 2020 laura chebet
